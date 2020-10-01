@@ -86,3 +86,4 @@ function onEscKey(event) {
     onCloseLightbox();
   }
 }
+

@@ -1,0 +1,25 @@
+{
+  "name": "hw-08-gallery-test-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Svi-Kos/hw-08-gallery-test-parcel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Svi-Kos/hw-08-gallery-test-parcel/issues"
+  },
+  "homepage": "https://github.com/Svi-Kos/hw-08-gallery-test-parcel#readme"
+}
